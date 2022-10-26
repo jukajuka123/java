@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Juka
+ *
+ */
+module idealnatezina {
+}
